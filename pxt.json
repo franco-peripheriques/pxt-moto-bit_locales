@@ -6,12 +6,12 @@
     "dependencies": {
         "core": "*"
     },
-"files": [
+    "files": [
         "README.md",
         "motobit.ts",
         "_locales/fr/motobit-jsdoc-strings.json",
         "_locales/fr/motobit-strings.json"
-    ],    
+    ],
     "testFiles": [
         "tests.ts"
     ],
