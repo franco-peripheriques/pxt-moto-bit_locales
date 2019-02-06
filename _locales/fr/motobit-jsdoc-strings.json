@@ -1,9 +1,9 @@
 {
-  "motobit": "Fonction pour commander le moto:bit.",
-  "motobit.enable": "Mettre les moteurs en marche ou les arrêter.",
-  "motobit.invert": "Inverser ou non la polarité d'un moteur. En avant devient en arrière et vice-versa.\nc.à.d. Avant -> Arrière et Arrière -> Avant",
-  "motobit.setMotorSpeed": "Mettre un moteur en marche ou les arrêter selon une direction et un pourcentage de la vitesse maximale.",
-  "motobit.setMotorSpeed|param|direction": "en avant ou en arrière",
-  "motobit.setMotorSpeed|param|motor": "le moteur sur lequel agir",
-  "motobit.setMotorSpeed|param|speed": "pourcentage de la vitesse maximale, par exemple: 50"
+  "motobit": "Les fonctions pour commander le moto:bit de SparkFun.",
+  "motobit.enable": "Démarre ou éteint les deux moteurs.",
+  "motobit.invert": "Inverse ou non (faux) la polarité d'un moteur. \nMarche avant devient marche arrière et marche arrière devient marche avant.",
+  "motobit.setMotorSpeed": "Met un moteur donné en marche avant ou arrière à un pourcentage de la vitesse maximale.",
+  "motobit.setMotorSpeed|param|direction": "La marche avant ou la marche arrière.",
+  "motobit.setMotorSpeed|param|motor": "Le moteur en question.",
+  "motobit.setMotorSpeed|param|speed": "Le pourcentage de la vitesse maximale, 50 pourcent, par exemple."
 }
